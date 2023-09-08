@@ -85,7 +85,7 @@ h1, h2, h3, h4, p {
 #gaby{
     margin-top: 80px;
     font-size: 50px;
-    background: #f72585;
+    color: #f72585;
     padding: 5px 10px;
     border-radius: 5px;
     
@@ -94,6 +94,7 @@ h1, h2, h3, h4, p {
     font-style: italic;
     font-size: 30px;
     background: #deaaff;
+    padding: 20px 20px;
     width: 400px;
     margin: 40px auto 20px;
 }
